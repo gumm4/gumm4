@@ -1,16 +1,37 @@
-## Hi there 👋
+# Página de Times, Jogadores e Técnicos de Futebol
 
-<!--
-**gumm4/gumm4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Projeto de Front-End desenvolvido em HTML, CSS e JavaScript, com o tema do mangá "Blue Lock"
 
-Here are some ideas to get you started:
+#Funcionalidades
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Exibição dos Jogadores, Times e Técnicos
+- Interações para exibir informações de cada Elemento disponível na Página, utilizando o JavaScript
+- Layout Responsivo, usando Grid/Flexbox
+
+## Tecnologias
+
+   
+    
+<img 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"
+width = 50px
+/> -HTML
+
+
+<img src=
+"https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"
+width = 50px
+/> -CSS
+          
+<img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+width = 50px
+/>  -JavaScript
+
+## Objetivos
+
+- Praticar manipulação de DOM e construção de interfaces.
+
+## Status
+
+Em andamento
